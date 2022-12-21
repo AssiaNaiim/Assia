@@ -34,32 +34,29 @@ hr { border-color :rgb(72, 29, 138);
 
 .top-container{background-color: #d2ebff;
     padding-top: 100px;
-    position: relative;
-    width: fit-content;}
+    position: relative;}
 
 .pro{font-weight: normal;  line-height: 2;}
 
 .hello{color:  #e2579d ;}
-.mountain{
 
-
-}
 
 .welcome{width: 50%;
 margin: 4rem auto 2rem auto; }
 
-.top-cloud{position: absolute;right:20%;
+.top-cloud{position: absolute;right:60%;
     top: 10%;
 }
 
 .bottom-cloud{
     position: absolute;
-    right: 80%;
-top:60% ;}
+  right:10%;
+    bottom: 30%;
+}
 
 
-.middle-container{margin: 50px 0;
-    width: 153%;}
+
+.middle-container{margin: 50px 0;}
 
 .flower{border-radius: 100%;
 }
@@ -149,4 +146,6 @@ margin-bottom: 0;
     font-size:0.75rem ;
     padding:20px 0 ;
  }
+
+
 
