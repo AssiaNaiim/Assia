@@ -40,19 +40,22 @@ hr { border-color :rgb(72, 29, 138);
 
 .hello{color:  #e2579d ;}
 
+.mountain{position: absolute;
+bottom: 0%;
+right: 50%;
+}
 
 .welcome{width: 50%;
 margin: 4rem auto 2rem auto; }
 
-.top-cloud{position: absolute;right:300px;
-    top: 50px;
+.top-cloud{position: absolute;right:20%;
+    top: 10%;
 }
 
 .bottom-cloud{
     position: absolute;
-    left: 300px;
-    bottom: 300px;
-}
+    right: 80%;
+top:60% ;}
 
 
 
