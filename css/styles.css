@@ -34,15 +34,15 @@ hr { border-color :rgb(72, 29, 138);
 
 .top-container{background-color: #d2ebff;
     padding-top: 100px;
-    position: relative;}
+    position: relative;
+    width: fit-content;}
 
 .pro{font-weight: normal;  line-height: 2;}
 
 .hello{color:  #e2579d ;}
+.mountain{
 
-.mountain{position: absolute;
-bottom: 0%;
-right: 50%;
+
 }
 
 .welcome{width: 50%;
@@ -58,8 +58,8 @@ margin: 4rem auto 2rem auto; }
 top:60% ;}
 
 
-
-.middle-container{margin: 50px 0;}
+.middle-container{margin: 50px 0;
+    width: 153%;}
 
 .flower{border-radius: 100%;
 }
